@@ -8,26 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\PG\\.nuget\\packages\\": {}
+    "/Users/yven/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PG\\Desktop\\StrategyPattern\\StrategyPattern.csproj",
+      "projectUniqueName": "/Users/yven/Schule/Wahlpflicht - Design Pattern/StrategyPattern/StrategyPattern.csproj",
       "projectName": "StrategyPattern",
-      "projectPath": "C:\\Users\\PG\\Desktop\\StrategyPattern\\StrategyPattern.csproj",
-      "packagesPath": "C:\\Users\\PG\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PG\\Desktop\\StrategyPattern\\obj\\",
+      "projectPath": "/Users/yven/Schule/Wahlpflicht - Design Pattern/StrategyPattern/StrategyPattern.csproj",
+      "packagesPath": "/Users/yven/.nuget/packages/",
+      "outputPath": "/Users/yven/Schule/Wahlpflicht - Design Pattern/StrategyPattern/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\PG\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/yven/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -60,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.305\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
       }
     }
   }

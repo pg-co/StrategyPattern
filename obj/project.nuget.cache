@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CfmYSdmioVnE6mcjGeK49ri5cvUaoxlt02N1ou/1238nXCIKgbjgUV4MkwnM7E+LfCcfT7mj38QBWVZ0YxgNZg==",
+  "dgSpecHash": "syYOMMrcohLx3cbYUkGL2A7xxtTdODVzIeSPkpwfQFMNVoaR6l8nRGUQr95PSjPONOWuv66DIkztKzJ7EBVfBg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PG\\Desktop\\StrategyPattern\\StrategyPattern.csproj",
+  "projectFilePath": "/Users/yven/Schule/Wahlpflicht - Design Pattern/StrategyPattern/StrategyPattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

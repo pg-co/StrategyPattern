@@ -1,2 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿int[] array = { -40, 10, 20, 30, 50 };
+var selectionSort = new SelectionSort();
+bool asc = true;
+
+foreach(var item in selectionSort.sort(array, asc)) {
+    Console.WriteLine(item.ToString());
+}
