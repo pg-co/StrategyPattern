@@ -2,6 +2,6 @@
 
 namespace StrategyPattern.Interfaces;
 
-public interface Strategy {
+public interface ISortStrategy {
     public int[] sort(int[] arr);
 }

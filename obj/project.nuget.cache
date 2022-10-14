@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CfmYSdmioVnE6mcjGeK49ri5cvUaoxlt02N1ou/1238nXCIKgbjgUV4MkwnM7E+LfCcfT7mj38QBWVZ0YxgNZg==",
+  "dgSpecHash": "zbXDA+kT1Ll0rU9NDP24bWN78RKlz1KZUMOtcyhuk054R+fozM1w5b/UYUhnIf/yTWg/30weVvbftE3Mki+aUQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PG\\Desktop\\StrategyPattern\\StrategyPattern.csproj",
+  "projectFilePath": "C:\\Users\\m.meyer\\Projects\\StrategyPattern\\StrategyPattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

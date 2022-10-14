@@ -1,0 +1,5 @@
+C:\Users\m.meyer\Projects\StrategyPattern\obj\Debug\net6.0\StrategyPattern.csproj.AssemblyReference.cache
+C:\Users\m.meyer\Projects\StrategyPattern\obj\Debug\net6.0\StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.meyer\Projects\StrategyPattern\obj\Debug\net6.0\StrategyPattern.AssemblyInfoInputs.cache
+C:\Users\m.meyer\Projects\StrategyPattern\obj\Debug\net6.0\StrategyPattern.AssemblyInfo.cs
+C:\Users\m.meyer\Projects\StrategyPattern\obj\Debug\net6.0\StrategyPattern.csproj.CoreCompileInputs.cache

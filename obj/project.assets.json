@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\PG\\.nuget\\packages\\": {}
+    "C:\\Users\\m.meyer\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PG\\Desktop\\StrategyPattern\\StrategyPattern.csproj",
+      "projectUniqueName": "C:\\Users\\m.meyer\\Projects\\StrategyPattern\\StrategyPattern.csproj",
       "projectName": "StrategyPattern",
-      "projectPath": "C:\\Users\\PG\\Desktop\\StrategyPattern\\StrategyPattern.csproj",
-      "packagesPath": "C:\\Users\\PG\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PG\\Desktop\\StrategyPattern\\obj\\",
+      "projectPath": "C:\\Users\\m.meyer\\Projects\\StrategyPattern\\StrategyPattern.csproj",
+      "packagesPath": "C:\\Users\\m.meyer\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\m.meyer\\Projects\\StrategyPattern\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\PG\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\m.meyer\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -51,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -60,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.305\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
