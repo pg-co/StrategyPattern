@@ -1,7 +1,0 @@
-
-
-namespace StrategyPattern.Interfaces;
-
-public interface Strategy {
-    public int[] sort(int[] arr);
-}
