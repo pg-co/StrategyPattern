@@ -10,7 +10,7 @@ namespace StrategyPattern.interfaces
     {
         public interface Strategy
         {
-            public int[] Sort(int[] arr);
+            public int[] Sort(int[] arr, bool asc);
         }
     }
 }
